@@ -21,7 +21,7 @@ def palindrome_check(my_phrase)
 end
 
 # A method that updates the string by replacing consecutive repeating characters
-# with a number representing the frequncy. The replacement is done only if the
+# with a number representing the frequency. The replacement is done only if the
 # string length will get reduced by the process.
 def encode_repeating(my_string)
   puts "NOT IMPLEMENTED"
